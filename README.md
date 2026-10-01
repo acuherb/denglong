@@ -1,7 +1,11 @@
+预览页面已经可以正常访问，页面内容显示“春节快乐！灯笼测试页 新年快乐”，说明灯笼效果已经正常渲染。下面是加入预览地址后的完整 README：
 
+```markdown
 # 春节灯笼 · Spring Lantern
 
 一段纯前端的春节自动挂灯笼脚本，内置 2025-2050 年春节日期表，到点自动挂，过了自动撤，无需手动开关。
+
+**在线预览**：[https://acuherb.github.io/denglong/](https://acuherb.github.io/denglong/)
 
 **效果**：页面左右两侧各挂一只大红灯笼，缓缓摆动，进入春节区间自动出现。
 
@@ -24,6 +28,8 @@
 - 右灯笼：`快 乐`
 - 摆幅：±10°，周期 5 秒
 - 灯笼底部流苏：3 秒一次的独立摆动
+
+预览地址：[https://acuherb.github.io/denglong/](https://acuherb.github.io/denglong/)
 
 ---
 
